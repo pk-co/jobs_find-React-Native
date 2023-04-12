@@ -10,3 +10,6 @@ const PopularJobs = () => {
         </View>
     )
 }
+
+
+export default PopularJobs;
